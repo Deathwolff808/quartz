@@ -1,3 +1,0 @@
-- Setting
-	- [[Writing/Setting/Environmental Description Steps]]
-	- [[Francis Setting.canvas|Francis Setting]]
