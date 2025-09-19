@@ -1,0 +1,1 @@
+https://reedsy.com/studio/resources/how-to-plan-a-novel
