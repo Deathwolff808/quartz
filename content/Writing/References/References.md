@@ -1,1 +1,0 @@
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.zrJBgKxwD5w1xG5zknH-dQAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=195d33dd50de1e134db847c7c5b9c7080a78e3d5a23564e0ed1f6daf6c6c51a5&ipo=images
