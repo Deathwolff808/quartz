@@ -1,5 +1,5 @@
-- [ ] Plan story arch for overarching Story
-	 ![[OIP-4290853982.jpg]]
+- [x] Plan story arch for overarching Story
+	 ![[PlotStructureRef.jpg]]
  - [ ] Plan Characters
 	 - [ ] Sam
 	 - [ ] Francis
