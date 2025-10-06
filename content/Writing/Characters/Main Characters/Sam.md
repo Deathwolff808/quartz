@@ -11,23 +11,30 @@ c63c388f54764d90["Possibly Incomplete"]
 80e0a3bc243459be["Finish her modifications as the story progresses"]
 bbd60a9c05f53436["Parents Placed Her There"]
 3b990e05305105bc["This happened as a result of the downfall of ancient humanity"]
-a08627a25b136646["Resulting Traits:"]
-b25619875155d93c["Reflective of what ancient humanity valued in a soldier"]
 2160576b84193276["Maybe this leads her to be dying"]
-5c7c77c86dc793a6["Iffy ability to emphasize"]
-c97468ecb7545944["Typically hypersexual but struggles to feel love on her own"]
+c68b2f09a6b7967f["What else could this cause?"]
+34ceec53b4f4f527["Forced to feel longing for a romance she can't have"]
 f9842800f677158a["Create more soldiers without trauma from losing partner"]
-a9f06ecc840c6e94["Terrifyingly good fighter, with an impressive level of natural strength and skill"]
-895810daeb7472b5["Caused by either implants, genetic engineering, or mental conditioning"]
 3b8d77a59a5819f3["More prone to committing atrocities "]
 47ac25b0e668b1be["Less affected by them as well"]
-34ceec53b4f4f527["Forced to feel longing for a romance she can't have"]
+c1dbc8dc69f4c635["When implants are removed and mental conditioning is broken, she feels the weight of what she's done"]
 9cbfec7e605bed58["Helps result in a feeling of true loneliness"]
 9bb1d18216f9976c["Believes herself to be one and is believed to be one"]
-747d0d3142198f5a["Hates this about herself"]
-ed24f33e5119c213["Parents did not survive Downfall of ancient humanity "]
-f9129a461d65f3a0["What Else Interesting could  this cause"]
-aed568f1fb61c84d["As a result of Old implants that were meant to be removed at a certain age"]
+a08627a25b136646["Resulting Traits:"]
+a8463ed25d18b127["Magically induced commanding presence"]
+637ecf675591de15["Mental conditioning makes it tough for her to tell who she truly is"]
+a9f06ecc840c6e94["Terrifyingly good fighter, with an impressive level of natural strength and skill"]
+5c7c77c86dc793a6["Iffy ability to emphasize"]
+de73df0455599891["Able to bend a person's thoughts to her will decently effectively"]
+e00fdd90b08274cd["Causes tension between her and Jake when found out about"]
+9d352fb5fad3a19a["Results of genetic engineering"]
+b25619875155d93c["Reflective of what ancient humanity valued in a soldier"]
+accd99e41eb3ceb2["Hates this about herself"]
+895810daeb7472b5["Caused by either implants, genetic engineering, or mental conditioning"]
+c97468ecb7545944["Typically hypersexual but struggles to feel love on her own"]
+0975143b18b1b2bb["Fiery, energetic personality"]
+76a403c6e39bdc74["In combat this can cause her to be extremely aggressive and ruthless"]
+07de60fcceede205["Physical appearance "]
 1bcf73117880a9d7 --> cf16479dd3eed837
 cf16479dd3eed837 --> 414d86afe3feecb3
 414d86afe3feecb3 --> 3ba80077ff7162a0
@@ -56,10 +63,15 @@ c97468ecb7545944 --> 34ceec53b4f4f527
 c97468ecb7545944 --> 9cbfec7e605bed58
 9bb1d18216f9976c --> 9cbfec7e605bed58
 3b8d77a59a5819f3 --> 47ac25b0e668b1be
-c97468ecb7545944 --> 747d0d3142198f5a
-bbd60a9c05f53436 --> ed24f33e5119c213
-414d86afe3feecb3 --> f9129a461d65f3a0
-2160576b84193276 --> aed568f1fb61c84d
-
-
+414d86afe3feecb3 --> c68b2f09a6b7967f
+414d86afe3feecb3 --> 07de60fcceede205
+c97468ecb7545944 --> accd99e41eb3ceb2
+47ac25b0e668b1be --> c1dbc8dc69f4c635
+a08627a25b136646 --> a8463ed25d18b127
+a8463ed25d18b127 --> de73df0455599891
+de73df0455599891 --> e00fdd90b08274cd
+de73df0455599891 --> 9d352fb5fad3a19a
+a08627a25b136646 --> 637ecf675591de15
+a08627a25b136646 --> 0975143b18b1b2bb
+0975143b18b1b2bb --> 76a403c6e39bdc74
 ```
