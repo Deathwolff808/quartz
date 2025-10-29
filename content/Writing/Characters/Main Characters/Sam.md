@@ -35,6 +35,8 @@ c97468ecb7545944["Typically hypersexual but struggles to feel love on her own"]
 0975143b18b1b2bb["Fiery, energetic personality"]
 76a403c6e39bdc74["In combat this can cause her to be extremely aggressive and ruthless"]
 07de60fcceede205["Physical appearance "]
+81a40feee45894d9["Name gets chosen by her early on, originally goes by her serial number"]
+903e8ae4458d8a2d["I may remove or heavily modify this depending on if I can actually implement it smoothly without feeling weird"]
 1bcf73117880a9d7 --> cf16479dd3eed837
 cf16479dd3eed837 --> 414d86afe3feecb3
 414d86afe3feecb3 --> 3ba80077ff7162a0
@@ -74,4 +76,10 @@ de73df0455599891 --> 9d352fb5fad3a19a
 a08627a25b136646 --> 637ecf675591de15
 a08627a25b136646 --> 0975143b18b1b2bb
 0975143b18b1b2bb --> 76a403c6e39bdc74
+a08627a25b136646 --> 81a40feee45894d9
+c97468ecb7545944 --> 903e8ae4458d8a2d
+5c7c77c86dc793a6 --> f9842800f677158a
+5c7c77c86dc793a6 --> 34ceec53b4f4f527
+76a403c6e39bdc74 --> 3b8d77a59a5819f3
+
 ```
